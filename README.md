@@ -1,2 +1,2 @@
-# dio-bootcamp-desafios
-Desafios de Projetos do
+# Repositório dos desafios  de Projetos realizados na plataforma dio
+
