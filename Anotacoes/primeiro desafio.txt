@@ -1,1 +1,13 @@
 Arquivo para primeiro desafio do projeto bootcamp da dio  - etapa Git/Github
+
+######desafio primeiro commit
+
+git clone								 -  clona repositorio
+
+cd diretorio							 - acessa repositorio
+
+git add .								 - carrega todas alteraçoes
+
+git commit -m "mensagem"	 - deve-se nomear o commit com uma mensagm para entender o que aconteceu no projeto
+
+git push origin main 				 - Envia alteraçoes para repositorio
